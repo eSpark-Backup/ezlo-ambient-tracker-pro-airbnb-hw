@@ -15,7 +15,7 @@
 * The product will have sensors for smoke detection, marijuana detection and vaping detection (independantly)
 * The product will have tamper detection.
 * The product will have the capability to produce an incident report (cloud part)
-* The product will not have Ethernet capability.
+* The product will have Ethernet capability similar to ambient tracker pro.
 * The product will feature mold detection and alarm detection capabilities.
 * The product may be given battery rechargeable via USB-C as well (topic of discussion)
 

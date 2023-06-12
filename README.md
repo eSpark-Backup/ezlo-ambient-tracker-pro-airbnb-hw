@@ -10,7 +10,6 @@
      * BGT60 radar sensor / Hilink sensor (topic of discussion)
 
 * The product will not have DW3000 chip.
-* The product will not have the Ethernet capabilities.
 * The product will feature 4 x microphones with direction feature support.
 * The product will have sensors for smoke detection, marijuana detection and vaping detection (independantly)
 * The product will have tamper detection.

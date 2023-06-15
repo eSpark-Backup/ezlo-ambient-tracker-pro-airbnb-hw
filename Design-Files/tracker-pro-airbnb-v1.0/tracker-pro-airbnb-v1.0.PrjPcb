@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for tracker-pro-airbnb-v1.0
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -189,7 +189,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -217,12 +217,12 @@ AutoOpenOutJob=-1
 ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
-AddNetPins=-1
-AddNetNetLabels=-1
-AddNetPorts=-1
+AddNetPins=0
+AddNetNetLabels=0
+AddNetPorts=0
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=1
@@ -246,7 +246,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for tracker-pro-airbnb-v1.0
 
 [OutputGroup1]
 Name=Netlist Outputs

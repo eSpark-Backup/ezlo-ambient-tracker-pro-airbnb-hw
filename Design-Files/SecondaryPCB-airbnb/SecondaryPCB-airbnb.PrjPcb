@@ -80,6 +80,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXLVHAYJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SecondaryPCB-airbnb\Design Rule Check - Secondary-PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

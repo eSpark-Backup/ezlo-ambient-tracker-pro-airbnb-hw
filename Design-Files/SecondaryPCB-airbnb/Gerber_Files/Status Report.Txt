@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SecondaryPCB-airbnb.PrjPcb]
+   Generated File[Secondary-PCB.TXT]
+   Generated File[Secondary-PCB.LDP]
+   Generated File[Secondary-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:16:03 PM On 7/13/2023

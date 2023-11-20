@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [tracker-pro-airbnb-v1.0.PrjPcb]
+   Generated File[AirBnB-v1.0-RoundHoles.TXT]
+   Generated File[AirBnB-v1.0-SlotHoles.TXT]
+   Generated File[AirBnB-v1.0.LDP]
+   Generated File[AirBnB-v1.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:15:04 AM On 11/20/2023

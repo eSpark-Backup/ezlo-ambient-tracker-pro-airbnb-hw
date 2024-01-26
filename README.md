@@ -18,3 +18,12 @@
 * The product will feature mold detection and alarm detection capabilities.
 * The product may be given battery rechargeable via USB-C as well (topic of discussion)
 
+## Unit Testing v1.0
+#### Number of Assmebled Board received: 2 Boards
+#### Number of Bare Boards received: Nil
+#### Details of peripherals received:  
+
+### Table 1
+| S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
+| ----------- | ----------- |-------------| --- | --- |
+| 1      | Working |  | PK | [Board Images](https://drive.google.com/drive/folders/1jn1JiaKMimk-96hEdHKVSgJ6izbUlOZS?usp=sharing) |

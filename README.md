@@ -22,6 +22,9 @@
 #### Number of Assmebled Board received: 2 Boards
 #### Number of Bare Boards received: Nil
 #### Details of peripherals received:  
+ PMS 2.5 Sensor   /  Qty = 2
+ 
+ Module ZE08-CH2O   / Qty = 2
 
 ### Table 1
 | S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
